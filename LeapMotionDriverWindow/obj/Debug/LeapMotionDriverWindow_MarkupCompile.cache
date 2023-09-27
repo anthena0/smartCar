@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\black\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\
+C:\Users\apple\Desktop\smartCar\LeapMotionDriverWindow\obj\Debug\
 LeapMotionDriverWindow
 none
 false
 DEBUG;TRACE
-C:\Users\black\Desktop\smartCar-master\LeapMotionDriverWindow\App.xaml
+C:\Users\apple\Desktop\smartCar\LeapMotionDriverWindow\App.xaml
 10-1769449378
 1561964390716
-18397063014
-18550301572
+22367261414
+18-758336308
 Controls\CircularProgressBar.xaml;DockMainScene.xaml;DockView.xaml;MenuWindow.xaml;Menu\VideoMenu.xaml;Menu\GMapMenu.xaml;Menu\MainMenu.xaml;Menu\MenuButton.xaml;StatusView.xaml;MainWindow.xaml;
 
-False
+True
 

@@ -1,7 +1,9 @@
 # smartCar
 The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
 
+Augmented Reality (AR)
 
+AR is a technology that enhances the real world by overlaying digital information, enriching the user's experience through real-time interaction. It finds applications in gaming, education, navigation, healthcare, design, and retail, making it a versatile and transformative technology.
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
 
